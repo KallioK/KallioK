@@ -1,4 +1,4 @@
-- 👋 Hei, olen @KallioK
+- 👋 Hei, olen @KallioK opiskelen viimeistä vuotta tieto- ja viestintätekniikan insinööriksi Kokkolassa.
 - 👀 Olen kiinnostunut sulautetuista ja järjestelmistä sekä luovista ohjelmistokehitysprojekteista.
 Toimin tällä hetkellä useissa eri rooleissa mm. startUp yrityksen perustajana ja ohjelmstokehittäjänä 
 kilpa-autojen ajotietokone ja ohjausjärjestelmien kehitysprojektissa.
